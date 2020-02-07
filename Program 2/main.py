@@ -3,6 +3,7 @@
 import adf
 import read
 
+# Path to input file (relative to current working directory)
 INPUT_PATH = 'input'
 
 
