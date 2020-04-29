@@ -242,8 +242,3 @@ class Diagram:
         self.find_fours()
         self.find_twos()
         self.find_ones()
-
-
-if __name__ == "__main__":
-    d = Diagram(0x6090)
-    print(d.terms)
